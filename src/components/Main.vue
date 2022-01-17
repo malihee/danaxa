@@ -38,7 +38,7 @@
           <v-list-item-icon>
             <v-icon  class="mt-10"  v-text="item.icon" :color="item.color" large></v-icon>
           </v-list-item-icon>
-           <!-- <v-spacer>  </v-spacer> -->
+            <v-spacer>  </v-spacer>
           <v-list-item-content>
             <v-list-item-title v-text="item.name"></v-list-item-title>
           </v-list-item-content>
